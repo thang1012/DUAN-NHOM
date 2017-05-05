@@ -1,5 +1,5 @@
 # DUAN-NHOM
--------------------------DỰ ÁN QUẢN LÝ THÔNG TIN SINH VIÊN TRƯỜNG ĐH Thông Tin Liên Lạc----------------------------------
+-------------------------DỰ ÁN QUẢN LÝ THÔNG TIN SINH VIÊN TRƯỜNG ĐH Thông Tin Liên Lạc-------------------------------
 
 1.Khảo sát sơ lược
  
