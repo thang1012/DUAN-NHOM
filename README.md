@@ -27,15 +27,20 @@ Do nắm bắt được nhu cầu của người dùng cùng với sự phát tr
 nghệ thông tin , nhóm đã lên ý tưởng làm phần mềm quản lý Sinh Viên để 
 khắc phục khó khăn trong quá trình quản lý và giảm thiểu chi phí , nhân lực , 
 tăng độ tin cậy và chính xác trong quá trình quản lý. 
+
 2. Đối tượng nghiên cứu 
 
 Với đề tài này, tập trung vào các nội dung : 
 Tìm hiểu, nghiên cứu ngôn ngữ lập trình C#. 
 Tìm hiểu cách thức quản lý thông tin sinh viên và kế hoạch đào tạo.
+
 3. Phạm vi nghiên cứu 
+
 Trong một khoảng thời gian có hạn, chúng em chỉ tập trung vào nghiên cứu 
 bài toán : Thông tin sinh viên, lớp, quản lý điểm và hạnh kiểm
+
 4. Mục đích nghiên cứu 
+
 Nghiên cứu lý thuyết giúp chúng ta: 
 Hiểu được cách sử dụng của ngôn ngữ C#, trong đó có các đối tượng, 
 phương thức, thuộc tính… 
