@@ -1,5 +1,5 @@
 # DUAN-NHOM
-Giới thiệu và đặt tả dự án
+-------------------------DỰ ÁN QUẢN LÝ THÔNG TIN SINH VIÊN TRƯỜNG ĐH Thông Tin Liên Lạc-------------------------------------------------
 
 1.Khảo sát sơ lược
  
