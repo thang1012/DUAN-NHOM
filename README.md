@@ -31,7 +31,7 @@ tăng độ tin cậy và chính xác trong quá trình quản lý.
 2. Đối tượng nghiên cứu 
 
 Với đề tài này, tập trung vào các nội dung : 
-Tìm hiểu, nghiên cứu ngôn ngữ lập trình C#. 
+Tìm hiểu, nghiên cứu ngôn ngữ lập trình J. 
 Tìm hiểu cách thức quản lý thông tin sinh viên và kế hoạch đào tạo.
 
 3. Phạm vi nghiên cứu 
