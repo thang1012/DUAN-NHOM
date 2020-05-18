@@ -42,7 +42,7 @@ bài toán : Thông tin sinh viên, lớp, quản lý điểm và hạnh kiểm
 4. Mục đích nghiên cứu 
 
 Nghiên cứu lý thuyết giúp: 
-Hiểu được cách sử dụng của ngôn ngữ C#, trong đó có các đối tượng, 
+Hiểu được cách sử dụng của ngôn ngữ J, trong đó có các đối tượng, 
 phương thức, thuộc tính… 
 Biết cách sử dụng phần mềm Visual Studio 2013 or 2015 để thiết kế giao diện 
 và xây dựng phần mềm xây dựng hệ thống quản lý thông tin sinh viên và kế 
